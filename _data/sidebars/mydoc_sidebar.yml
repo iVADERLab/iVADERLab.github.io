@@ -68,3 +68,14 @@ entries:
     - title: Smart Watch
       url: /mydoc_support.html
       output: web, pdf
+      
+  - title: Guildline
+    output: web, pdf
+    folderitems:
+
+    - title: How to upload post
+      url: /howtouploadpost.html
+      output: web, pdf
+      type: homepage
+
+    
