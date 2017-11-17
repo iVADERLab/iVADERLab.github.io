@@ -3,7 +3,7 @@ title: "Comparative Genomics Project Description"
 keywords: sample homepage
 tags: [Project Description]
 sidebar: mydoc_sidebar
-permalink: project/comparativegenomics.html
+permalink: comparativegenomics_proj.html
 summary: It is description about comparative genomics project
 ---
 
