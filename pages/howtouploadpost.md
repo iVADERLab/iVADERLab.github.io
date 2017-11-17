@@ -3,7 +3,7 @@ title: "How to upload post"
 keywords: sample homepage
 tags: [Guildline]
 sidebar: mydoc_sidebar
-permalink: comparativegenomics_proj.html
+permalink: howtouploadpost.html
 summary: It is description about how to upload post
 ---
 
@@ -13,8 +13,8 @@ Edit _data/sidebars/mydoc_sidebar.yml
 
 ### 1. Make big category
   - title: Guildline
-    output: web, pdf
-    folderitems:
+   >output: web, pdf
+   >folderitems:
     
 ### 2. Make small category below the big category
     - title: How to upload post
