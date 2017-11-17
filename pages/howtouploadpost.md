@@ -3,7 +3,7 @@ title: "How to upload post"
 keywords: sample homepage
 tags: [Guildline]
 sidebar: mydoc_sidebar
-permalink: howtouploadpost.html
+permalink: comparativegenomics_proj.html
 summary: It is description about how to upload post
 ---
 
