@@ -27,20 +27,16 @@ Edit _data/sidebars/mydoc_sidebar.yml
 Add pages/decs/ .md
 
 ### 1. Add the basic information
----
-title: "Comparative Genomics Project Description"
-keywords: sample homepage
-tags: [Project Description]
-sidebar: mydoc_sidebar
-permalink: comparativegenomics_proj.html
-summary: It is description about comparative genomics project
----
+    ---
+    title: "Comparative Genomics Project Description"
+    keywords: sample homepage
+    tags: [Project Description]
+    sidebar: mydoc_sidebar
+    permalink: comparativegenomics_proj.html
+    summary: It is description about comparative genomics project
+    ---
 
-### 2. Fill the contents
-## Build the Theme
-
-Follow these instructions to build the theme.
-
+### 2. Fill your contents
 
 
 
