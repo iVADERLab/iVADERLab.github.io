@@ -12,9 +12,9 @@ summary: It is description about how to upload post
 Edit _data/sidebars/mydoc_sidebar.yml
 
 ### 1. Make big category
-  - title: Guildline
-   >output: web, pdf
-   >folderitems:
+    - title: Guildline
+      output: web, pdf
+      folderitems:
     
 ### 2. Make small category below the big category
     - title: How to upload post
