@@ -24,7 +24,7 @@ entries:
     folderitems:
 
     - title: Comparative Genomics
-      url: /index.html
+      url: /project/comparativegenomics.html
       output: web, pdf
       type: homepage
 
